@@ -11,7 +11,7 @@ namespace GenericsIntro
 
             Console.WriteLine(isimler.Length);
 
-			isimler.Add("Maho");
+			isimler.Add("Sasa");
 
             Console.WriteLine(isimler.Length);
 
